@@ -157,6 +157,3 @@ This project is maintained by Tamanna Khanna. I am a Software Developer focused 
 - **GitHub**: https://github.com/tamannakhanaa
 - **Email**: tamannaakhannaa14@gmail.com
 
-## License
-
-MIT - see [LICENSE](LICENSE).
