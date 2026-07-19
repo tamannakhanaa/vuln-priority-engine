@@ -2,7 +2,6 @@
 
 **CVSS tells you how bad a flaw is. EPSS + CISA KEV tell you whether anyone is actually shooting at it - this turns your scanner's flat CVE dump into a ranked, SLA-bucketed remediation queue.**
 
-![vuln-priority-engine](assets/hero.png)
 
 ## The problem
 
